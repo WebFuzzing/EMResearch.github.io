@@ -1,0 +1,18 @@
+body{
+    background-color: #e4e8ed;
+}
+
+.main{
+    margin: 0 5%;
+    font-size: 17px;
+}
+
+.main-summary{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.main-members-heading{
+    font-weight: 500;
+}
+
